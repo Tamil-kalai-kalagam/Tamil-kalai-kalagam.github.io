@@ -1,0 +1,68 @@
+# Exclude files from Jekyll build
+exclude:
+    - README.md
+    - LICENSE
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+
+# Installed gems
+plugins: 
+    - jekyll-target-blank
+    - jekyll-redirect-from
+
+# Gem settings
+
+# Site settings
+encoding: utf-8
+lang: en-GB
+title: "Tamil-kalai-kalagam"
+logo: "/assets/img/logos/logo_hex.png"
+description: ""
+baseurl: ""
+url: "https://Tamil-kalai-kalagam.github.io"
+repo: "https://github.com/Tamil-kalai-kalagam/Tamil-kalai-kalagam.github.io"
+email: "tamilkalaikalagam.tech@gmail.com"
+google_analytics: 
+css_inline: false 
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  auto_ids: true 
+
+# Favicons 
+favicons: '/assets/img/logos/logo_hex.png'
+    
+# Site navigation
+navigation_header:
+- title: HOME
+  url: /
+- title: ABOUT US
+  url: /tutorials.html
+- title: TEAM
+  url: /team.html
+- title: MEMBERSHIP
+  url: /involve.html
+- title: EVENTS
+  url: /workshop.html
+- title: BLOG
+  url: /links.html
+- title: CONTACT US
+  url: /contact.html
+
+# Define collections
+collections:
+    tutorials:
+        output: true
+        permalink: /tutorials/:path/
+    course:
+        output: true
+        permalink: /course/:path/
+    DL:
+        output: true
+        permalink: /DL/:path/
+    posts:
+        output: true
+        permalink: /posts/:path/
