@@ -23,7 +23,7 @@ redirect_from:
 <div class="team-profile">
 	<h3>பில்டெக் அருள்மொழி</h3>
 	<p>தமிழ் கலைக் கழக ஆலோசகர்</p>
-	<img src="{{ site.baseurl }}/assets/img/team/arulmozhi.jpg" alt="arul photo">
+	<img src="{{ site.baseurl }}/assets/img/team/arulmozhi.JPG" alt="arul photo">
 </div>
 
 
