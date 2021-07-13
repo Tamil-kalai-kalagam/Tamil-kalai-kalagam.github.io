@@ -61,19 +61,19 @@ banner: "../assets/img/banner/slider-bg-pale.jpg"
 <div class="owl-carousel-wrapper">
 	<div class="owl-carousel">
 		<div class="owl-carousel-img">
-			<img src="{{ site.baseurl }}/assets/img/index/workshop1.JPG" alt="Workshop photo">
+			<img src="{{ site.baseurl }}/assets/img/index/workshop1.jpg" alt="Workshop photo">
 		</div>
 		<div class="owl-carousel-img">
-			<img src="{{ site.baseurl }}/assets/img/index/workshop2.JPG" alt="Workshop photo">
+			<img src="{{ site.baseurl }}/assets/img/index/workshop2.jpg" alt="Workshop photo">
 		</div>
 		<div class="owl-carousel-img">
-			<img src="{{ site.baseurl }}/assets/img/index/workshop3.JPG" alt="Workshop photo">
+			<img src="{{ site.baseurl }}/assets/img/index/workshop3.jpg" alt="Workshop photo">
 		</div>
 				<div class="owl-carousel-img">
-			<img src="{{ site.baseurl }}/assets/img/index/workshop4.JPG" alt="Workshop photo">
+			<img src="{{ site.baseurl }}/assets/img/index/workshop4.jpg" alt="Workshop photo">
 		</div>
 				<div class="owl-carousel-img">
-			<img src="{{ site.baseurl }}/assets/img/index/workshop5.JPG" alt="Workshop photo">
+			<img src="{{ site.baseurl }}/assets/img/index/workshop5.jpg" alt="Workshop photo">
 		</div>
 	</div>
 </div>
