@@ -16,7 +16,7 @@ banner: "../assets/img/banner/slider-bg-pale.jpg"
 <section id="portfolio-work" style="background-color: #c4d7d7; padding-bottom:20px; padding-top:20px">
 <div class="content-new-streams">
     <img src="{{ site.baseurl }}/assets/img/index/about_us.png" style= "width:25%; height:auto; padding:20px;20px;20px;80px;" alt="About us">
-<h1> தமிழ் கலைக் கழகம் -"தமிழால் இணைவோம்,தரணி செழிக்கச் செய்வோம்" </h1>
+<h2> தமிழ் கலைக் கழகம் -"தமிழால் இணைவோம்,தரணி செழிக்கச் செய்வோம்" </h2>
 <h2>தமிழ் கலைக் கழகத்தின் நோக்கம், பார்வை, மதிப்புகள் </h2>
 <p>
 <h4>தமிழ் கலைக் கழகத்தின் நோக்கம்:</h4>
